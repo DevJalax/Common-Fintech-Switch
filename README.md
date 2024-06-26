@@ -1,4 +1,4 @@
-#Common Fintech Switch (Aggregate of all digital fintech services)
+## Common Fintech Switch (Aggregate of all digital fintech services)
 
 I) Common Services : 
 
@@ -50,7 +50,9 @@ Risk Assessment Service , Exchange Rate Management Service , Payout Network Serv
 
 VIII) Netbanks - NEFT , RTGS , IMPS
 
-IX) UPI (all NPCI API's) : 
+IX) Card networks : VISA , MasterCard , AMEX
+
+X) UPI (all NPCI API's) : 
 
 1) ReqPay - CREDIT | DEBIT | REVERSAL
 2) ReqHbt
