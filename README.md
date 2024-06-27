@@ -76,3 +76,15 @@ XIII) UPI (all NPCI API's) :
 14) ReqRegMob
 15) ReqComplaint
 16) ReqTxnConfirmation
+
+some notable players or companies : 
+
+Payments : PayPal , Stripe , Paytm , PhonePe , CRED
+RazorPay , Cash Free Payments , M2P , Falcon 
+PayU , JusPay , Jar , IppoPay , CamsPay
+
+Cards :  Amex , Visa , MasterCard
+
+Investments : Groww , Zerodha 
+
+Banks : NuBank , Hdfc , Sbi , Icici , Kotak , Bandhan bank , Deustch bank , BNP , WellsFargo
