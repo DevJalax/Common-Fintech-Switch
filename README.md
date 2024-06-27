@@ -52,7 +52,13 @@ VIII) Netbanks - NEFT , RTGS , IMPS
 
 IX) Card networks : VISA , MasterCard , AMEX
 
-X) UPI (all NPCI API's) : 
+X) Wallet or top-up of balance linked with movie or bus ticket booking
+
+XI) Merchant on-boarding to provide them QR standee / Sound box
+
+XII) UPI 123 (payment through IVRS)
+
+XIII) UPI (all NPCI API's) : 
 
 1) ReqPay - CREDIT | DEBIT | REVERSAL
 2) ReqHbt
