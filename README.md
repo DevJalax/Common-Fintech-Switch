@@ -58,7 +58,9 @@ XI) Merchant on-boarding to provide them QR standee / Sound box
 
 XII) UPI 123 (payment through IVRS)
 
-XIII) UPI (all NPCI API's) : 
+XIII) AEPS (Aadhar Enabled Payment Systems)
+
+XIV) UPI (all NPCI API's) : 
 
 1) ReqPay - CREDIT | DEBIT | REVERSAL
 2) ReqHbt
