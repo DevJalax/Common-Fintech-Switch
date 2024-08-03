@@ -7,7 +7,7 @@ Chatbot Service , Backup Service , Monitoring Service , Logging Service , Tracin
 Configuration Service , Fraud Detection Service , KYC (Know Your Customer) Service , Reporting Service
 Analytics Service , Alerting Service , Automation Service , Workflow management Service , Audit Service
 Customer Support Service , Fraud detection Service , Risk assessment Service , Data Management Service(transformation , modeling , enrichment , quality and lineage) , Onboarding Service , Profiling Service , Verification Service 
-Dashboard Service , Communication Service
+Dashboard Service , Communication Service , Charges and commission service 
 
 
 II) Core Banking Services : 
