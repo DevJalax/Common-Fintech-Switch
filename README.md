@@ -5,7 +5,7 @@ I) Common Services :
 API Gateway Service , Identity and Access Management Service , Notification Service
 Chatbot Service , Backup Service , Monitoring Service , Logging Service , Tracing Service
 Configuration Service , Fraud Detection Service , KYC (Know Your Customer) Service , Reporting Service
-Analytics Service , Alerting Service , Automation Service , Workflow management Service , Audit Service
+Analytics Service , Alerting Service , Automation Service(process automation like uipath) , Workflow management Service , Audit Service
 Customer Support Service , Fraud detection Service , Risk assessment Service , Data Management Service(transformation , modeling , enrichment , quality and lineage) , Onboarding Service , Profiling Service , Verification Service 
 Dashboard Service , Communication Service , Charges and commission service 
 
