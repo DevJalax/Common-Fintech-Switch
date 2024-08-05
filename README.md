@@ -7,7 +7,7 @@ Chatbot Service , Backup Service , Monitoring Service , Logging Service , Tracin
 Configuration Service , Fraud Detection Service , KYC (Know Your Customer) Service , Reporting Service
 Analytics Service , Alerting Service , Automation Service(process automation like uipath) , Workflow management Service , Audit Service
 Customer Support Service , Fraud detection Service , Risk assessment Service , Data Management Service(transformation , modeling , enrichment , quality and lineage) , Onboarding Service , Profiling Service , Verification Service , Dashboard Service , Communication Service , Charges and commission service ,
-Consultancy service[Strategy , Performance management , Merger and Aquisation mgmt] 
+Consultancy service[Strategy , Performance management , Merger and Aquisation mgmt] ,  Cloud infrastructure and data management (storage , backup and recovery) service , domain registration and web hosting
 
 
 II) Core Banking Services : 
@@ -36,7 +36,7 @@ Portfolio Management Service , Asset Ingestion Service , Asset Processing Servic
 Asset Retrieval Service , Power BI Integration Service , Visualization Service , Metadata Management Service
 Integration Service
 
-VI) Financial Management Services :
+VI) Financial Management Services (wealth management) :
 
 Expense Tracking Service , Income Tracking Service , Savings Goal Service , Investment Tracking Service
 Loan Management Service , Credit Score Service , Account Aggregation Service , Transaction Categorization Service
@@ -59,6 +59,10 @@ XI) Merchant on-boarding to provide them QR standee / Sound box
 XII) UPI 123 (payment through IVRS)
 
 XIII) AEPS (Aadhar Enabled Payment Systems)
+
+XIV) Investment banking api's
+
+XV) Trading api's
 
 XIV) UPI (all NPCI API's) : 
 
