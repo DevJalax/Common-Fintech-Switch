@@ -1,21 +1,11 @@
 ## Common Fintech Switch (Aggregate of all digital fintech services)
 
-I) Common Services : 
-
-API Gateway Service , Identity and Access Management Service , Notification Service
-Chatbot Service , Backup Service , Monitoring Service , Logging Service , Tracing Service
-Configuration Service , Fraud Detection Service , KYC (Know Your Customer) Service , Reporting Service
-Analytics Service , Alerting Service , Automation Service(process automation like uipath) , Workflow management Service , Audit Service
-Customer Support Service , Fraud detection Service , Risk assessment Service , Data Management Service(transformation , modeling , enrichment , quality and lineage) , Onboarding Service , Profiling Service , Verification Service , Dashboard Service , Communication Service , Charges and commission service ,
-Consultancy service[Strategy , Performance management , Merger and Aquisation mgmt] ,  Cloud infrastructure and data management (storage , backup and recovery) service , domain registration and web hosting
-
-
-II) Core Banking Services : 
+I) Core Banking Services (CBS): 
 
 Account Service , Transaction Service , Payment Service , Bill Payment Service
 Fund Transfer Service , Loan Service , Credit Card Service , Debit Card Service
 
-III) Customer-Centric Services : 
+II) Customer-Centric Services : 
 
 Rewards Service , Budgeting Service , Investment Service , Wealth Management Service
 Customer Portal Service , Loan Origination Service , Loan Application Service , Credit Assessment Service
@@ -23,46 +13,41 @@ Eligibility Calculation Service , Loan Approval Service , Loan Disbursement Serv
 Loan Servicing Service
 
 
-IV) Operational Services : 
+III) Operational Services : 
 
 Policy Administration Service , Underwriting Service , Claims Management Service , Billing Service
 Document Generation Service , Rating Engine Service , Regulatory Compliance Service , Regulatory Change Management Service
 Regulatory Documentation Service , Regulatory Training Service , Regulatory Helpdesk Service , Regulatory Remediation Service
 Regulatory Testing Service , Regulatory Certification Service , Regulatory Governance Service , Regulatory Oversight Service
 
-V) Data and Analytics Services : 
 
-Portfolio Management Service , Asset Ingestion Service , Asset Processing Service , Asset Storage Service
-Asset Retrieval Service , Power BI Integration Service , Visualization Service , Metadata Management Service
-Integration Service
-
-VI) Financial Management Services (wealth management) :
+IV) Financial Management Services (wealth management) :
 
 Expense Tracking Service , Income Tracking Service , Savings Goal Service , Investment Tracking Service
 Loan Management Service , Credit Score Service , Account Aggregation Service , Transaction Categorization Service
 Recurring Payments Service , Savings Automation Service , Debt Management Service , Budgeting Recommendation Service
 Financial Education Service , Spending Insights Service
 
-VII) Remittance Services : 
+V) Remittance Services : 
 
 Remittance Initiation Service , Currency Conversion Service , Payment Processing Service , Remittance Tracking Service
 Risk Assessment Service , Exchange Rate Management Service , Payout Network Service , Remittance Reconciliation Service
 
-VIII) Netbanks - NEFT , RTGS , IMPS
+VI) Netbanks - NEFT , RTGS , IMPS
 
-IX) Card networks : VISA , MasterCard , AMEX
+VII) Card networks : VISA , MasterCard , AMEX
 
-X) Wallet or top-up of balance linked with movie or bus ticket booking
+VIII) Wallet or top-up of balance linked with movie or bus ticket booking
 
-XI) Merchant on-boarding to provide them QR standee / Sound box
+IX) Merchant on-boarding to provide them QR standee / Sound box
 
-XII) UPI 123 (payment through IVRS)
+X) UPI 123 (payment through IVRS)
 
-XIII) AEPS (Aadhar Enabled Payment Systems)
+XI) AEPS (Aadhar Enabled Payment Systems)
 
-XIV) Investment banking api's
+XII) Investment banking api's
 
-XV) Trading api's
+XIII) Trading api's
 
 XIV) UPI (all NPCI API's) : 
 
