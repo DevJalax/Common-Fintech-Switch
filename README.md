@@ -26,7 +26,7 @@ IV) Financial Management Services (wealth management) :
 Expense Tracking Service , Income Tracking Service , Savings Goal Service , Investment Tracking Service
 Loan Management Service , Credit Score Service , Account Aggregation Service , Transaction Categorization Service
 Recurring Payments Service , Savings Automation Service , Debt Management Service , Budgeting Recommendation Service
-Financial Education Service , Spending Insights Service
+Financial Education Service , Spending Insights Service , Financial Management Service(This service would handle all financial operations such as accounts payable and receivable, general ledger, budgeting, forecasting, and expense management)
 
 V) Remittance Services : 
 
