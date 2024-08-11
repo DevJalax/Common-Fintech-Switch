@@ -49,7 +49,7 @@ XII) Investment banking api's
 
 XIII) Trading api's
 
-XIV) UPI (all NPCI API's) : 
+XIV) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
 
 1) ReqPay - CREDIT | DEBIT | REVERSAL
 2) ReqHbt
