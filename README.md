@@ -68,6 +68,9 @@ XIV) UPI (all NPCI API's) : (understand the flow , error codes and which scenari
 15) ReqComplaint
 16) ReqTxnConfirmation
 
+order of implementation :
+I -> VI -> VII ->  X -> XI -> XIV -> II + III + IV -> VIII ->  XII -> XIII -> V -> IX
+
 some notable players or companies : 
 
 Payments : PayPal , Stripe , Paytm , PhonePe , CRED
