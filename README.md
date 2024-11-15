@@ -1,45 +1,22 @@
 ## Common Fintech Switch (Aggregate of all digital fintech services)
 
-I) Core Banking Services (CBS): 
+I) Core Banking Services (CBS):
 
-Account Service , Transaction Service , Payment Service , Bill Payment Service
-Fund Transfer Service , Loan Service , Credit Card Service , Debit Card Service
-
-II) Customer-Centric Services : 
-
-Rewards Service , Budgeting Service , Investment Service , Wealth Management Service
-Customer Portal Service , Loan Origination Service , Loan Application Service , Credit Assessment Service
-Eligibility Calculation Service , Loan Approval Service , Loan Disbursement Service , Repayment Service
-Loan Servicing Service
+a) Account Management Service (Combines Account, Credit/Debit Card, and Loan Services)
+b) Transaction and Fund Transfer Service (Handles Transactions, Payments, Bill Payments, and Fund Transfers)
+c) Loan Lifecycle Management Service (Combines Loan Origination, Application, Credit Assessment, Eligibility, Approval, Disbursement, and Servicing)
+d) Policy and Claims Management Service (Combines Policy Administration, Underwriting, and Claims Management) // Insurance
+e) Remittance and Currency Management Service (Handles Initiation, Currency Conversion, Payment Processing, Tracking, Risk Assessment, and Exchange Rate Management)
+f) Financial Insights and Planning Service (Combines Expense/Income Tracking, Budgeting, Savings Goals, Spending Insights, and Debt Management)
 
 
-III) Operational Services : 
+II) Netbanks - NEFT , RTGS , IMPS
 
-Policy Administration Service , Underwriting Service , Claims Management Service , Billing Service
-Document Generation Service , Rating Engine Service , Regulatory Compliance Service , Regulatory Change Management Service
-Regulatory Documentation Service , Regulatory Training Service , Regulatory Helpdesk Service , Regulatory Remediation Service
-Regulatory Testing Service , Regulatory Certification Service , Regulatory Governance Service , Regulatory Oversight Service
+III) Card networks : VISA , MasterCard , AMEX
 
+IV) AEPS (Aadhar Enabled Payment Systems)(rural places)
 
-IV) Financial Management Services (wealth management) :
-
-Expense Tracking Service , Income Tracking Service , Savings Goal Service , Investment Tracking Service
-Loan Management Service , Credit Score Service , Account Aggregation Service , Transaction Categorization Service
-Recurring Payments Service , Savings Automation Service , Debt Management Service , Budgeting Recommendation Service
-Financial Education Service , Spending Insights Service , Financial Management Service(This service would handle all financial operations such as accounts payable and receivable, general ledger, budgeting, forecasting, and expense management)
-
-V) Remittance Services : 
-
-Remittance Initiation Service , Currency Conversion Service , Payment Processing Service , Remittance Tracking Service
-Risk Assessment Service , Exchange Rate Management Service , Payout Network Service , Remittance Reconciliation Service
-
-VI) Netbanks - NEFT , RTGS , IMPS
-
-VII) Card networks : VISA , MasterCard , AMEX
-
-VIII) AEPS (Aadhar Enabled Payment Systems)(rural places)
-
-IX) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
+V) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
 
 1) ReqPay - CREDIT | DEBIT | REVERSAL
 2) ReqHbt
@@ -62,13 +39,13 @@ some notable players or companies :
 
 Payments : PayPal , Stripe , Paytm , PhonePe , CRED
 RazorPay , Cash Free Payments , M2P , Falcon 
-PayU , JusPay , Jar , IppoPay , CamsPay
+PayU , JusPay , Jar , IppoPay , CamsPay , Gpay , BHIM , Navi , Amazon Pay , Slice ,Super-money , Groww
 
 Cards :  Amex , Visa , MasterCard
 
 Investments : Groww , Zerodha 
 
-Banks : NuBank , Hdfc , Sbi , Icici , Kotak , Bandhan bank , Deustch bank , BNP , WellsFargo (case study)
+Banks : NuBank , Hdfc , Sbi , Icici , Kotak , Bandhan bank , Deustch bank , BNP , WellsFargo , YesBank , IDFC , Axis bank , Canara bank , Federal bank (case study)
 
 Consultants : Mckinsey , Bain , BCG , Deloitte , EY , pWC , KPMG , Gartner , Booz allen hamilton
 
