@@ -37,19 +37,9 @@ VI) Netbanks - NEFT , RTGS , IMPS
 
 VII) Card networks : VISA , MasterCard , AMEX
 
-VIII) Wallet or top-up of balance linked with movie or bus ticket booking
+VIII) AEPS (Aadhar Enabled Payment Systems)(rural places)
 
-IX) Merchant on-boarding to provide them QR standee / Sound box
-
-X) UPI 123 (payment through IVRS)
-
-XI) AEPS (Aadhar Enabled Payment Systems)
-
-XII) Investment banking api's
-
-XIII) Trading api's
-
-XIV) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
+IX) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
 
 1) ReqPay - CREDIT | DEBIT | REVERSAL
 2) ReqHbt
@@ -68,9 +58,6 @@ XIV) UPI (all NPCI API's) : (understand the flow , error codes and which scenari
 15) ReqComplaint
 16) ReqTxnConfirmation
 
-order of implementation :
-I -> VI -> VII ->  X -> XI -> XIV -> II + III + IV -> VIII ->  XII -> XIII -> V -> IX
-
 some notable players or companies : 
 
 Payments : PayPal , Stripe , Paytm , PhonePe , CRED
@@ -81,6 +68,16 @@ Cards :  Amex , Visa , MasterCard
 
 Investments : Groww , Zerodha 
 
-Banks : NuBank , Hdfc , Sbi , Icici , Kotak , Bandhan bank , Deustch bank , BNP , WellsFargo
+Banks : NuBank , Hdfc , Sbi , Icici , Kotak , Bandhan bank , Deustch bank , BNP , WellsFargo (case study)
 
 Consultants : Mckinsey , Bain , BCG , Deloitte , EY , pWC , KPMG , Gartner , Booz allen hamilton
+
+Asset management
+
+Finance and Loans(Personal,Corporate and Goverment)
+
+Accounting (CA)
+
+Insurance
+
+Capital market (Domestic and international)
