@@ -16,7 +16,9 @@ III) Card networks : VISA , MasterCard , AMEX
 
 IV) AEPS (Aadhar Enabled Payment Systems)(rural places)
 
-V) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
+V) POS / Card swipe machines
+
+VI) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
 
 1) ReqPay - CREDIT | DEBIT | REVERSAL
 2) ReqHbt
