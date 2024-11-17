@@ -60,3 +60,10 @@ Accounting (CA)
 Insurance
 
 Capital market (Domestic and international)
+
+How to avoid financial regulators ?
+
+Decentralized Finance (DeFi) Platforms
+Corporate payment wallets - own currency
+Tokenized barter exchange
+International markets for securities trading 
