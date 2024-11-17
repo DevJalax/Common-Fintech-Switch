@@ -63,7 +63,19 @@ Capital market (Domestic and international)
 
 How to avoid financial regulators ?
 
-Decentralized Finance (DeFi) Platforms
-Corporate payment wallets - own currency
-Tokenized barter exchange
-International markets for securities trading 
+1) Decentralized Finance (DeFi) Platforms
+2) Corporate payment wallets - own currency
+3) Tokenized barter exchange
+4) Use International markets for securities trading
+
+Bypass NPCI , but still follow RBI guidelines :
+
+1) Closed-Loop Systems with Partner Banks
+2) Become a Payment Aggregator
+3) white-label inter-bank fund transfer
+
+for cross border remittance :
+
+1) For international transactions, you can bypass NPCI entirely by using cross-border payment mechanisms (e.g., SWIFT, Ripple).
+2) Ensure adherence to FEMA (Foreign Exchange Management Act) guidelines.
+ 
