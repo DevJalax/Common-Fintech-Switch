@@ -18,7 +18,9 @@ IV) AEPS (Aadhar Enabled Payment Systems)(rural places)
 
 V) POS / Card swipe machines
 
-VI) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
+VI) Wallet
+
+VII) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
 
 1) ReqPay - CREDIT | DEBIT | REVERSAL
 2) ReqHbt
@@ -78,4 +80,21 @@ for cross border remittance :
 
 1) For international transactions, you can bypass NPCI entirely by using cross-border payment mechanisms (e.g., SWIFT, Ripple).
 2) Ensure adherence to FEMA (Foreign Exchange Management Act) guidelines.
- 
+
+
+Speciality of wallet over UPI :
+
+1) limited bank dependency for microtransactions
+2) offline payment
+3) merchants specific cashback offers, discounts, and rewards
+4) easy checkout from online platforms like Ola , Swiggy etc
+
+Wallet Stats :
+
+1) Mobile Wallets Market in India is anticipated to grow at a compound annual growth rate (CAGR) of 23.9% between 2023 and 2027 and reach ₹472.6 trillion ($5.7 trillion) in 2027.
+
+2) The value of mobile wallet payments in India was INR128.2 trillion ($1.5 trillion) in 2022.
+
+3) There are 217 million mobile wallet users in India and is expected to reach 434 million in 2025cwith the average digital wallet user spends about $200 per month.
+
+4) There were also 3.4 billion digital wallet users in the world, or 42.6% of the global population.
