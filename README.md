@@ -18,7 +18,9 @@ IV) AEPS (Aadhar Enabled Payment Systems)(rural places)
 
 V) POS / Card swipe machines
 
-VI) Wallet
+VI) Wallet - UPI lite/ UPI lite X + auto-topup
+
+VII) UPI123 / IVRS payment
 
 VII) UPI (all NPCI API's) : (understand the flow , error codes and which scenario its used and all tags in the requests [XML])
 
