@@ -100,3 +100,22 @@ Wallet Stats :
 3) There are 217 million mobile wallet users in India and is expected to reach 434 million in 2025cwith the average digital wallet user spends about $200 per month.
 
 4) There were also 3.4 billion digital wallet users in the world, or 42.6% of the global population.
+
+CAGR stats : 
+
+> 10% CAGR  :
+
+UPI - 50-55% CAGR
+IMPS - 37% CAGR
+AEPS - 20% CAGR
+POS machines - 20% CAGR
+NEFT - 10-15% CAGR
+
+<= 10% CAGR :
+
+Core Banking Services (CBS) 6-8% CAGR
+RTGS - 10% CAGR
+Card networks - 8-10% CAGR
+Wallet - 5-8% CAGR
+UPI123 - still needs adoption
+
