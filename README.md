@@ -105,17 +105,17 @@ CAGR stats :
 
 > 10% CAGR  :
 
-UPI - 50-55% CAGR
-IMPS - 37% CAGR
-AEPS - 20% CAGR
-POS machines - 20% CAGR
-NEFT - 10-15% CAGR
+1) UPI - 50-55% CAGR
+2) IMPS - 37% CAGR
+3) AEPS - 20% CAGR
+4) POS machines - 20% CAGR
+5) NEFT - 10-15% CAGR
 
 <= 10% CAGR :
 
-Core Banking Services (CBS) 6-8% CAGR
-RTGS - 10% CAGR
-Card networks - 8-10% CAGR
-Wallet - 5-8% CAGR
-UPI123 - still needs adoption
+1) Core Banking Services (CBS) 6-8% CAGR
+2) RTGS - 10% CAGR
+3) Card networks - 8-10% CAGR
+4) Wallet - 5-8% CAGR
+5) UPI123 - still needs adoption
 
