@@ -97,7 +97,7 @@ Wallet Stats :
 
 2) The value of mobile wallet payments in India was INR128.2 trillion ($1.5 trillion) in 2022.
 
-3) There are 217 million mobile wallet users in India and is expected to reach 434 million in 2025cwith the average digital wallet user spends about $200 per month.
+3) There are 217 million mobile wallet users in India and is expected to reach 434 million in 2025 cwith the average digital wallet user spends about $200 per month.
 
 4) There were also 3.4 billion digital wallet users in the world, or 42.6% of the global population.
 
@@ -107,9 +107,15 @@ CAGR stats :
 
 1) UPI - 50-55% CAGR
 2) IMPS - 37% CAGR
-3) AEPS - 20% CAGR
-4) POS machines - 20% CAGR
-5) NEFT - 10-15% CAGR
+3) Lending / BNPL -  25%
+4) AEPS - 20% CAGR
+5) POS machines - 20% CAGR
+6) Fastag - 15-20% CAGR
+7) Investment and wealth management - 14-18% CAGR
+8) Remittance - 13% CAGR
+9) Trading - 12-15% CAGR
+10) NEFT - 10-15% CAGR
+11) Insurance - 10-15% CAGR
 
 <= 10% CAGR :
 
@@ -118,4 +124,5 @@ CAGR stats :
 3) Card networks - 8-10% CAGR
 4) Wallet - 5-8% CAGR
 5) UPI123 - still needs adoption
+6) CBDC - still needs adoption
 
